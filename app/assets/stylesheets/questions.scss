@@ -1,0 +1,28 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+p {
+  font-style: italic;
+}
+
+#input {
+  width: 300px;
+  height: 20px;
+  border-radius: 2px;
+  border: none;
+}
+
+#btn {
+  height: 24px;
+  background-color: #337AB8;
+  color: white;
+  font-style: bold;
+  border: none;
+  font-size: 15px;
+}
+
+form {
+  border: solid 1px grey;
+  width: fit-content;
+  border-radius: 3px;
+}
